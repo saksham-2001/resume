@@ -1,2 +1,3 @@
 # resume
-My resume  from web development course
+my resume created using html and css
+
